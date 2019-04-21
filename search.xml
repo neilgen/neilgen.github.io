@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[ceph分析]]></title>
-    <url>%2F2019%2F04%2F21%2Fceph%E5%88%86%E6%9E%90%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>工作</category>
-      </categories>
-      <tags>
-        <tag>ceph</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F04%2F21%2Ftest%2F</url>
-    <content type="text"><![CDATA[测试界面]]></content>
+    <title><![CDATA[未来的蜜月旅行]]></title>
+    <url>%2F2019%2F04%2F21%2F%E6%97%85%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[测试]]></content>
       <categories>
         <category>生活</category>
       </categories>
       <tags>
-        <tag>旅行</tag>
+        <tag>蜜月旅行， 生活</tag>
       </tags>
   </entry>
 </search>
